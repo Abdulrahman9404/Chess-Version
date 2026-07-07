@@ -77,6 +77,3 @@ This project is still a work in progress and is being developed as a learning ex
 
 ---
 
-## Author
-
-Created by **[Your Name]** as a personal learning project.
